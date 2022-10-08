@@ -5,7 +5,7 @@
 
 💡 &nbsp;I am interested in Computer Vision and Deep Learning.\
 🎓 &nbsp;I'm currently studying Computer Science at the University of California Riverside.\
-✍️ &nbsp;In my free time, I like working on side projects in web development or computer vision.\
+✍️ &nbsp;In my free time, I like working on side projects in web development or computer vision.
 
 
 ### 🛠 &nbsp;Tech Stack
