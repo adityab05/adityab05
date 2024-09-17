@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I am interested in Computer Vision and Deep Learning.\
-🎓 &nbsp;I'm am a software engineer and have recently completed my masters program in Computer Science from the University of California Riverside.\
+🎓 &nbsp;I'm am a software engineer and have recently completed my masters program in Computer Science from the University of California Riverside.
 
 
 ### 🛠 &nbsp;Tech Stack
